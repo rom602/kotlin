@@ -1,2 +1,2 @@
 # kotlin
-Kotlin Study Repo.
+Kotlin Study Repo
